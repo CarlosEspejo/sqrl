@@ -11,6 +11,10 @@ pull down the repo and run:
 ## Usage
 Coming Soon
 
+## Todo
+ * Generate the login url with the cryptographic challenge.
+ * Take the generated login url and generate QR code.
+
 
 
 
