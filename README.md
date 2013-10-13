@@ -12,8 +12,9 @@ pull down the repo and run:
 Coming Soon
 
 ## Todo
- * Generate the login url with the cryptographic challenge.
- * Take the generated login url and generate QR code.
+ * Create a login url that will have a unique cryptographic challenge.
+ * Generate a QR code from the login url and display it on the login page.
+ * Receive from the SQRL client a posted public key and cryptographic signature. The public key will become the SQRL Id of the user if successfully authenticated.
 
 
 
